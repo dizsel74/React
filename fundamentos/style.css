@@ -1,0 +1,21 @@
+body{
+ background-color: rgb(57, 49, 65);
+ color: aliceblue;
+}
+
+.center{
+ text-align: center;
+}
+
+.galeria{
+ display: flex;
+
+}
+
+.card{
+ padding:20px;
+}
+
+.img-card{
+ width: 300px;
+}
